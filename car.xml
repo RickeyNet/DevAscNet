@@ -1,0 +1,17 @@
+<favorite_cars>
+    <car>
+        <make>Ford</make>
+        <model>Raptor</model>
+        <year>2013</year>
+    </car>
+    <car>
+        <make>Mercedes-Bens</make>
+        <model>Sprinter</model>
+        <year>2020</year>
+    </car>
+    <car>
+        <make>Ford</make>
+        <model>GT</model>
+        <year>2005</year>
+    </car>
+</favorite_cars>
